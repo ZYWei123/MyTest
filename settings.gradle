@@ -1,0 +1,1 @@
+include ':app', ':myapplication', ':demo_01', ':demo_02', ':test02', ':demo_03', ':test03', ':test03_2', ':test04', ':demo_03_1', ':test05', ':demo_03_2', ':demo_04', ':demo_05', ':demo_05_02', ':taobao', ':demo_07'

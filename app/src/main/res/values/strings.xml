@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test01</string>
+    <string name="username">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="exit">取消</string>
+</resources>

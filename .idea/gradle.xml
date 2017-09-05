@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo_01" />
+            <option value="$PROJECT_DIR$/demo_02" />
+            <option value="$PROJECT_DIR$/demo_03" />
+            <option value="$PROJECT_DIR$/demo_03_1" />
+            <option value="$PROJECT_DIR$/demo_03_2" />
+            <option value="$PROJECT_DIR$/demo_04" />
+            <option value="$PROJECT_DIR$/demo_05" />
+            <option value="$PROJECT_DIR$/demo_05_02" />
+            <option value="$PROJECT_DIR$/demo_07" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/taobao" />
+            <option value="$PROJECT_DIR$/test02" />
+            <option value="$PROJECT_DIR$/test03" />
+            <option value="$PROJECT_DIR$/test03_2" />
+            <option value="$PROJECT_DIR$/test04" />
+            <option value="$PROJECT_DIR$/test05" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo_01" />
+            <option value="$PROJECT_DIR$/demo_02" />
+            <option value="$PROJECT_DIR$/demo_03" />
+            <option value="$PROJECT_DIR$/demo_03_1" />
+            <option value="$PROJECT_DIR$/demo_03_2" />
+            <option value="$PROJECT_DIR$/demo_04" />
+            <option value="$PROJECT_DIR$/demo_05" />
+            <option value="$PROJECT_DIR$/demo_05_02" />
+            <option value="$PROJECT_DIR$/demo_07" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/taobao" />
+            <option value="$PROJECT_DIR$/test02" />
+            <option value="$PROJECT_DIR$/test03" />
+            <option value="$PROJECT_DIR$/test03_2" />
+            <option value="$PROJECT_DIR$/test04" />
+            <option value="$PROJECT_DIR$/test05" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

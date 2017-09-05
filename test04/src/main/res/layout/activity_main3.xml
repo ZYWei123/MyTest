@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hzyc.wzy.test04.Main3Activity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="弹出菜单"
+        android:id="@+id/open"
+        android:layout_marginTop="41dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dialog1"
+        android:id="@+id/open2"
+        android:layout_below="@+id/open"
+        android:layout_alignLeft="@+id/open"
+        android:layout_alignStart="@+id/open" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dialog2"
+        android:id="@+id/open3"
+        android:layout_below="@+id/open2"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dialog3"
+        android:id="@+id/open4"
+        android:layout_below="@+id/open3"
+        android:layout_alignLeft="@+id/open3"
+        android:layout_alignStart="@+id/open3" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dialog4"
+        android:id="@+id/open5"
+        android:layout_below="@+id/open4"
+        android:layout_alignLeft="@+id/open4"
+        android:layout_alignStart="@+id/open4" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dialog5"
+        android:id="@+id/open6"
+        android:layout_below="@+id/open5"
+        android:layout_alignLeft="@+id/open5"
+        android:layout_alignStart="@+id/open5" />
+
+</RelativeLayout>
